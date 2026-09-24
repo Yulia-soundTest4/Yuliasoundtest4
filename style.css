@@ -50,7 +50,7 @@ main{
     justify-content: center;
     align-items: center;
 
-    border: 1px solid black;
+    border: 1px solid var(--color02);
     position: relative;
     overflow: hidden;
 }
@@ -75,7 +75,7 @@ dialog[open] {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid black;
+    border: 1px solid var(--color02);
 }
 
 /*create style of falling pattern*/
